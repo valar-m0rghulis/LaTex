@@ -1,0 +1,16 @@
+PWD c:\Users\chaud\Documents\GitHub\LaTex
+INPUT C:\Users\chaud\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\chaud\Documents\GitHub\LaTex\sample.tex
+OUTPUT c:\Users\chaud\Documents\GitHub\LaTex\sample.log
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT c:\Users\chaud\Documents\GitHub\LaTex\sample.aux
+INPUT c:\Users\chaud\Documents\GitHub\LaTex\sample.aux
+OUTPUT c:\Users\chaud\Documents\GitHub\LaTex\sample.aux
+OUTPUT c:\Users\chaud\Documents\GitHub\LaTex\sample.pdf
+INPUT C:\Users\chaud\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT c:\Users\chaud\Documents\GitHub\LaTex\sample.aux
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
